@@ -1,0 +1,10 @@
+[
+  {
+    "booking_id": "BK-4B0D02",
+    "flight_id": "UL225",
+    "passenger_name": "Lasitha",
+    "seats": 3,
+    "total_cost_usd": 1080,
+    "status": "CONFIRMED"
+  }
+]

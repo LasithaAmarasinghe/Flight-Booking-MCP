@@ -1,0 +1,13 @@
+FLIGHT_ID | ORIGIN | DESTINATION | DEPARTURE | ARRIVAL | PRICE_USD | SEATS_LEFT
+SQ308     | SIN    | LHR         | 09:00     | 15:40   | 850       | 4
+EK405     | SIN    | DXB         | 11:30     | 14:45   | 620       | 0
+BA012     | SIN    | LHR         | 23:15     | 05:55   | 790       | 12
+UL302     | CMB    | SIN         | 07:20     | 13:50   | 310       | 8
+SQ469     | CMB    | SIN         | 00:50     | 07:20   | 390       | 2
+QF001     | SYD    | LHR         | 16:30     | 06:15   | 1120      | 5
+EK508     | DXB    | CMB         | 08:25     | 14:35   | 275       | 9
+SQ424     | SIN    | BOM         | 18:10     | 21:15   | 430       | 6
+UL225     | CMB    | BKK         | 13:40     | 19:05   | 360       | 4
+BA016     | LHR    | SIN         | 21:35     | 18:10   | 805       | 10
+QF002     | LHR    | SYD         | 20:55     | 05:15   | 1180      | 3
+EK412     | DXB    | LHR         | 09:45     | 14:00   | 710       | 11
